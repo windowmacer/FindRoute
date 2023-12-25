@@ -22,12 +22,15 @@
   - Новые точки отображаются в виде маркеров.
 
 <div>
-  <img src="Assets/1.png" alt="01" height="500" style="margin-right: 30px;">
-  <img src="Assets/2.png" alt="01" height="500" style="margin-right: 30px;">
-  <img src="Assets/3.png" alt="01" height="500" style="margin-right: 30px;">
-  <img src="Assets/4.png" alt="01" height="500" style="margin-right: 30px;">
-  <img src="Assets/5.png" alt="01" height="500" style="margin-right: 30px;">
-  <img src="Assets/6.png" alt="02" height="500">
+  <img src="Assets/1.png" alt="01" height="450" style="margin-right: 30px;">
+  <img src="Assets/2.png" alt="01" height="450" style="margin-right: 30px;">
+  <img src="Assets/3.png" alt="02" height="450">
+</div>
+
+<div>
+  <img src="Assets/4.png" alt="01" height="450" style="margin-right: 30px;">
+  <img src="Assets/5.png" alt="01" height="450" style="margin-right: 30px;">
+  <img src="Assets/6.png" alt="02" height="450">
 </div>
 
 - **Построение маршрута:**
